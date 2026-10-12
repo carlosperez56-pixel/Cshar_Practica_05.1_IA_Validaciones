@@ -58,6 +58,7 @@ namespace Cshar_Practica_05._1_IA_Validaciones
             this.butlimpiar.TabIndex = 25;
             this.butlimpiar.Text = "Limpiar";
             this.butlimpiar.UseVisualStyleBackColor = false;
+            this.butlimpiar.Click += new System.EventHandler(this.butlimpiar_Click);
             // 
             // butguardar
             // 
@@ -69,6 +70,7 @@ namespace Cshar_Practica_05._1_IA_Validaciones
             this.butguardar.TabIndex = 24;
             this.butguardar.Text = "Guardar";
             this.butguardar.UseVisualStyleBackColor = false;
+            this.butguardar.Click += new System.EventHandler(this.butguardar_Click);
             // 
             // groupgenero
             // 
@@ -82,7 +84,6 @@ namespace Cshar_Practica_05._1_IA_Validaciones
             this.groupgenero.TabIndex = 23;
             this.groupgenero.TabStop = false;
             this.groupgenero.Text = "Genero";
-            this.groupgenero.Enter += new System.EventHandler(this.groupgenero_Enter);
             // 
             // radotro
             // 

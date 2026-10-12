@@ -1,0 +1,8 @@
+Nombres: Roger
+Apellidos: Peres
+Genero: Masculino
+Edad: 51
+Telefono: 9612254525
+Estatura: 1.12
+Fecha: 11/10/2026 22:26
+
